@@ -1,0 +1,19 @@
+INDEX VERSION 1.134
+E:\spring-mvc-framework\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\38855375.index
+\springproject_mobile_management_system\src\main\resources
+E:\spring-mvc-framework\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1712143344.index
+\springmvcproject\src\main\resources
+E:\spring-mvc-framework\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\732075542.index
+\springmvc_hibernatecrud\src\main\java
+E:\spring-mvc-framework\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3325557318.index
+\ServletProject_JPA_IPL_Teamsdb\src\main\resources
+E:\spring-mvc-framework\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4095798519.index
+\springmvc_hibernatecrud\src\main\java
+E:\spring-mvc-framework\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2540717265.index
+\springproject1\src\main\java
+E:\spring-mvc-framework\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2026951954.index
+\SpringMvc_HibernateProduct\src\main\java
+E:\spring-mvc-framework\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\233425487.index
+\servletproject_calculator\src\main\java
+E:\spring-mvc-framework\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\16076970.index
+\servletproject_jpa_iplTeamsdb\src\main\java

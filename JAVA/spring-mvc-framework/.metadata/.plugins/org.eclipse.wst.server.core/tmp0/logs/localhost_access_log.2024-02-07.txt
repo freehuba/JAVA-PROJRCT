@@ -1,0 +1,14 @@
+127.0.0.1 - - [07/Feb/2024:11:10:24 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:11:10:28 +0530] "GET /springproject1/index.jsp HTTP/1.1" 200 585
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:11:10:28 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:11:10:53 +0530] "POST /springproject1/singup HTTP/1.1" 200 1080
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:11:10:53 +0530] "GET /springproject1/style.css HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:11:11:00 +0530] "GET /springproject1/index.jsp HTTP/1.1" 200 585
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:11:11:13 +0530] "POST /springproject1/singup HTTP/1.1" 200 1075
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:11:11:13 +0530] "GET /springproject1/style.css HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:11:11:17 +0530] "GET /springproject1/index.jsp HTTP/1.1" 200 585
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:11:12:09 +0530] "POST /springproject1/singup HTTP/1.1" 200 1080
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:11:12:09 +0530] "GET /springproject1/style.css HTTP/1.1" 404 682
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:11:12:13 +0530] "GET /springproject1/index.jsp HTTP/1.1" 200 585
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:11:12:55 +0530] "POST /springproject1/singup HTTP/1.1" 200 200
+0:0:0:0:0:0:0:1 - - [07/Feb/2024:11:12:59 +0530] "GET /springproject1/index.jsp HTTP/1.1" 200 585

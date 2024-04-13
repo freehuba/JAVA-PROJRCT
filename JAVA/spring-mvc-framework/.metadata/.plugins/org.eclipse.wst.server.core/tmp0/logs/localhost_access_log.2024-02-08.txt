@@ -1,0 +1,10 @@
+127.0.0.1 - - [08/Feb/2024:11:54:27 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:11:54:32 +0530] "GET /ServletProject_JPA_IPL_Teamsdb/index.jsp HTTP/1.1" 200 683
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:11:54:32 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:11:55:01 +0530] "GET /ServletProject_JPA_IPL_Teamsdb/index.jsp HTTP/1.1" 200 664
+127.0.0.1 - - [08/Feb/2024:11:56:09 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:11:56:11 +0530] "GET /ServletProject_JPA_IPL_Teamsdb/index.jsp HTTP/1.1" 200 658
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:11:56:54 +0530] "POST /ServletProject_JPA_IPL_Teamsdb/saveTeam HTTP/1.1" 404 794
+127.0.0.1 - - [08/Feb/2024:11:58:44 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:11:58:45 +0530] "GET /ServletProject_JPA_IPL_Teamsdb/index.jsp HTTP/1.1" 200 658
+0:0:0:0:0:0:0:1 - - [08/Feb/2024:11:58:45 +0530] "GET /favicon.ico HTTP/1.1" 404 762

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;spring-jpa-crud/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;SpringBoot_Actor&apos;&#x0D;&#x0A;- Destination element: &apos;spring-jpa-crud/src/main/resources&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     static&#x0D;&#x0A;     templates" description="Copy folders" destination="=spring-jpa-crud/src\/main\/resources=/maven.pomderived=/true=/=/optional=/true=/" element1="src/main/resources/static" element2="src/main/resources/templates" files="0" flags="589830" folders="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1707926097647" units="0" version="1.0"/>
+</session>

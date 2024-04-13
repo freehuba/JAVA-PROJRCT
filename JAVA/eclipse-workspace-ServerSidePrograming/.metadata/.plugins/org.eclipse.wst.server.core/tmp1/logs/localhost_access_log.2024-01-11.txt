@@ -1,0 +1,16 @@
+127.0.0.1 - - [11/Jan/2024:15:15:33 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:15:15:38 +0530] "GET /NoteTakerToDoList/index.jsp HTTP/1.1" 200 2896
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:15:15:39 +0530] "GET /NoteTakerToDoList/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:15:15:39 +0530] "GET /NoteTakerToDoList/img/notes.png HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:15:15:39 +0530] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:15:15:42 +0530] "GET /NoteTakerToDoList/add_notes.jsp HTTP/1.1" 200 3206
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:15:16:09 +0530] "POST /NoteTakerToDoList/SaveNoteServlet HTTP/1.1" 200 143
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:15:16:12 +0530] "GET /NoteTakerToDoList/all_notes.jsp HTTP/1.1" 200 6263
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:15:16:21 +0530] "GET /NoteTakerToDoList/edit.jsp?note_id=39428 HTTP/1.1" 200 3299
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:15:16:26 +0530] "POST /NoteTakerToDoList/UpdateServlet HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:15:16:26 +0530] "GET /NoteTakerToDoList/all_notes.jsp HTTP/1.1" 200 6272
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:15:16:30 +0530] "GET /NoteTakerToDoList/DeleteServlet?note_id=39428 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:15:16:30 +0530] "GET /NoteTakerToDoList/all_notes.jsp HTTP/1.1" 200 5598
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:15:16:48 +0530] "GET /NoteTakerToDoList/all_notes.jsp? HTTP/1.1" 200 5598
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:15:16:51 +0530] "GET /NoteTakerToDoList/all_notes.jsp HTTP/1.1" 200 5598
+0:0:0:0:0:0:0:1 - - [11/Jan/2024:15:16:54 +0530] "GET /NoteTakerToDoList/about_us.jsp HTTP/1.1" 200 3992
